@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UserDetailController.viewDidLoad():UserDetailController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userDetails">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UserListController.viewDidLoad():UserListController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Service.getData(method:completion:):Service.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
